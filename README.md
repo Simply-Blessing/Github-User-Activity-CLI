@@ -39,14 +39,15 @@ cd github-activity-cli
 
 ## 🚀 Usage
 
+```bash
 python git_activity.py <username>
-
+```
 Example:
-
+```bash
 python git_activity.py simply-blessing
-
+```
 Output:
-
+```bash
 Here is simply-blessing recent activity:
 
 * Pushed 3 commits to Simply-Blessing/TaskPad
@@ -54,7 +55,7 @@ Here is simply-blessing recent activity:
 * Created repository TaskPad
 * Starred florinpop17/app-ideas
 * Forked imnowdevops/ddc-material
-
+```
 ---
 
 ## Roadmap Project
